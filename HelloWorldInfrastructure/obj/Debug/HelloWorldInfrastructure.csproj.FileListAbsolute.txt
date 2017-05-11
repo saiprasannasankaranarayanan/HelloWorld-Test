@@ -1,0 +1,14 @@
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Data\TodaysData.txt
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\HelloWorldInfrastructure.pdb
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\log4net.xml
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\bin\Debug\System.Web.Http.xml
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.csprojResolveAssemblyReference.cache
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.dll
+C:\Users\prasa\Desktop\meta horizon\HelloWorld-master\HelloWorld-master\HelloWorldInfrastructure\obj\Debug\HelloWorldInfrastructure.pdb
